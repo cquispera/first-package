@@ -1,5 +1,5 @@
 {
-  "name": "first-package",
+  "name": "cqr-first-package",
   "version": "1.0.0",
   "description": "My first package",
   "main": "index.js",
