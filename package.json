@@ -1,6 +1,6 @@
 {
   "name": "cqr-first-package",
-  "version": "1.0.1",
+  "version": "1.1.0-beta.0",
   "description": "My first package",
   "main": "index.js",
   "scripts": {
